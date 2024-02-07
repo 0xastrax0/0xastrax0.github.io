@@ -6,17 +6,17 @@ theme: jekyll-theme-chirpy
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
-lang: en
+lang: zh-CN
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone:
+timezone: America/Los_Angeles
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 茶客观 # the main title
+title: 茶客 # the main title
 
-tagline: 一起看世界 # it will display as the sub-title
+tagline: 这里是茶客观｜世界 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   
@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
 url: "https://0xastrax0.github.io"
 
 github:
-  username: github_username # change to your github username
+  username: 0xastrax0 # change to your github username
 
 twitter:
   username: Astra002300 # change to your twitter username
@@ -41,8 +41,8 @@ social:
     - https://twitter.com/Astra002300 # change to your twitter homepage
     - https://github.com/0xastrax0 # change to your github homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/zuodong.ji
-    # - https://www.linkedin.com/in/zuodong
+    - https://www.facebook.com/zuodong.ji
+    - https://www.linkedin.com/in/zuodong
 
 google_site_verification: # fill in to your verification string
 
